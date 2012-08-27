@@ -2,7 +2,7 @@
 
 This is a collection of data, workbooks, and notes that I've developed to
 support my tablea public work. My  focus is on the analysis of Scottish health
-care data sets, but I'm generally interested in all kinds of data  questions.
+care data sets, but I'm generally interested in all kinds of data questions.
 
 The data made available has been modified for use from the original sources,
 which are listed below. I don't make any claims as to the completeness,
@@ -32,44 +32,40 @@ or email me at: andy{dot}judson{at}gmail{dot}com
 or linked at: http://uk.linkedin.com/pub/andy-judson/39/9a2/29b
 
 
-### ATTRIBUTION OF SOURCES OF DATA & RESOURCES
+### ATTRIBUTION OF DATA SOURCES & USEFUL RESOURCES
 
- HM Government Open Data Service:
-  - http://data.gov.uk/data
-  - http://data.gov.uk/publisher/office-for-national-statistics
-  - http://data.gov.uk/publisher/scottish-government
-  - http://data.gov.uk/publisher/isd-scotland
-  - http://data.gov.uk/publisher/national-records-of-scotland
-  - http://data.gov.uk/publisher/scottish-government-spatial-data-infrastructure
-  - http://data.gov.uk/data/search?tags=health&q=nhs+scotland
+HM Government Open Data Service:
+ - http://data.gov.uk/data
+ - http://data.gov.uk/publisher/office-for-national-statistics
+ - http://data.gov.uk/publisher/scottish-government
+ - http://data.gov.uk/publisher/isd-scotland
+ - http://data.gov.uk/publisher/national-records-of-scotland
+ - http://data.gov.uk/publisher/scottish-government-spatial-data-infrastructure
+ - http://data.gov.uk/data/search?tags=health&q=nhs+scotland
 
- Scottish Goverment & NHS Scotland:
-  - http://www.scotland.gov.uk/
-  - http://www.scotpho.org.uk/
-  - http://www.sns.gov.uk/
-  - http://www.nhsnss.org/
-  - http://www.isdscotland.org/
-  - http://www.diabetesinscotland.org.uk/
- 
- Ordance Survey Open Data:
-  - http://www.ordnancesurvey.co.uk/oswebsite/products/os-opendata.html
-  - http://www.ordnancesurvey.co.uk/oswebsite/opendata/licensing.html
+Scottish Goverment & NHS Scotland:
+ - http://www.scotland.gov.uk/
+ - http://www.scotpho.org.uk/
+ - http://www.sns.gov.uk/
+ - http://www.nhsnss.org/
+ - http://www.isdscotland.org/
+ - http://www.diabetesinscotland.org.uk/
+
+Ordance Survey Open Data:
+ - http://www.ordnancesurvey.co.uk/oswebsite/products/os-opendata.html
  
 
 ### COPYRIGHT & LICENSE
 
 This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. 
-To view a copy of this license, visit: 
-
- - http://creativecommons.org/licenses/by-sa/3.0/
+To view a copy of this license, visit: http://creativecommons.org/licenses/by-sa/3.0/
 
 
 ### ATTRIBUTION STATEMENT(S):
 
 Contains public sector information licensed under the Open Government Licence v1.0
-  
- - http://reference.data.gov.uk/id/open-government-licence
-  
-Contains Ordnance Survey data © Crown copyright and database right 2011
+For more information visit: http://reference.data.gov.uk/id/open-government-licence
 
- - http://www.ordnancesurvey.co.uk/opendata/licensing.html
+Contains Ordnance Survey data © Crown copyright and database right 2011
+For more information visit: http://www.ordnancesurvey.co.uk/opendata/licensing.html
+
