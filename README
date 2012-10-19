@@ -1,24 +1,36 @@
 ### INTRODUCTION
 
 This is a collection of data, workbooks, and notes that I've developed to
-support my tablea public work. My  focus is on the analysis of Scottish health
-care data sets, but I'm generally interested in all kinds of data questions.
+support my tablea (public) and d3 work. My  focus is on the analysis of
+Scottish health care data sets, but I'm generally interested in all kinds of
+data questions.
 
 The data made available has been modified for use from the original sources,
-which are listed below. I don't make any claims as to the completeness,
-accuracy of content of any data contain in this repository. The data is
-subject to change as modifications and updates are complete.
+which are listed below. I don't make any claims as to the completeness, accuracy
+of content of any data contain in this repository. The data is subject to change
+as modifications and updates are complete.
 
 
 ### TABLEAU PUBLIC:
 
-"Tableau Public is a free tool that brings data to life. Easy to use. Spectacularly powerful. Data In. Brilliance Out."
+"Tableau Public is a free tool that brings data to life. Easy to use. 
+Spectacularly powerful. Data In. Brilliance Out."
 
 http://www.tableausoftware.com/public/welcome
 
 http://www.tableausoftware.com/public/faq
 
 http://www.tableausoftware.com/public/community
+
+### D3 (DATA DRIVEN DOCUMENTS):
+
+"D3.js is a JavaScript library for manipulating documents based on data. D3 helps
+you bring data to life using HTML, SVG and CSS. D3’s emphasis on web standards
+gives you the full capabilities of modern browsers without tying yourself to a
+proprietary framework, combining powerful visualization components and a data-
+driven approach to DOM manipulation."
+
+http://d3js.org/
 
 
 ### CONTACT INFO
