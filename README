@@ -1,7 +1,7 @@
 ### INTRODUCTION
 
 This is a collection of data, workbooks, and notes that I've developed to
-support my tablea (public) and d3 work. My  focus is on the analysis of
+support my tableau (public) and d3 work. My  focus is on the analysis of
 Scottish health care data sets, but I'm generally interested in all kinds of
 data questions.
 
@@ -22,6 +22,7 @@ http://www.tableausoftware.com/public/faq
 
 http://www.tableausoftware.com/public/community
 
+
 ### D3 (DATA DRIVEN DOCUMENTS):
 
 "D3.js is a JavaScript library for manipulating documents based on data. D3 helps
@@ -31,6 +32,8 @@ proprietary framework, combining powerful visualization components and a data-
 driven approach to DOM manipulation."
 
 http://d3js.org/
+
+https://github.com/mbostock/d3/wiki/Gallery
 
 
 ### CONTACT INFO
@@ -66,16 +69,30 @@ Scottish Goverment & NHS Scotland:
 Ordance Survey Open Data:
  - http://www.ordnancesurvey.co.uk/oswebsite/products/os-opendata.html
 
- WHO Global Health Observatory Data Repository
+WHO Global Health Observatory Data Repository
  - http://apps.who.int/ghodata/
  - http://www.euro.who.int/en/what-we-do/data-and-evidence
 
- Useful Blog & Forums Posts:
- - http://community.tableausoftware.com/thread/116369
- - http://www.clearlyandsimply.com/clearly_and_simply/2012/03/create-your-own-filled-maps-in-tableau.html
- - http://www.datarevelations.com/hey-your-tableau-public-viz-is-ugly-and-confusing.html
+Useful & Interests Blogs:
+ - http://www.dataists.com/2010/09/the-data-science-venn-diagram/
+ - http://www.dataists.com/2010/09/a-taxonomy-of-data-science/
+ - http://www.guardian.co.uk/news/datablog
+ - http://www.guardian.co.uk/news/datablog/2011/jul/28/data-journalism
+ - http://www.guardian.co.uk/news/datablog/2012/mar/02/data-scientist
+ - http://datascienceglobal.org/
+ - http://datasciencehackathon.com/data-science-london-hackathon/
+ - http://tableausoftware.com/public/community
+ - http://vis.stanford.edu/
+ - http://www.datajournalismblog.com/
+ - http://www.visualizing.org/
+ - http://datavisualization.ch/
+ - http://www.greenplum.com/blog/
+ - http://oreilly.com/data/
+ - http://rockhealth.com/blog/
+ - http://flowingdata.com/
+ - http://mkweb.bcgsc.ca/
+ - http://blog.nextgenetics.net/
 
- 
 
 ### COPYRIGHT & LICENSE
 
