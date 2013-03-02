@@ -16,11 +16,9 @@ as modifications and updates are complete.
 "Tableau Public is a free tool that brings data to life. Easy to use. 
 Spectacularly powerful. Data In. Brilliance Out."
 
-http://www.tableausoftware.com/public/welcome
-
-http://www.tableausoftware.com/public/faq
-
-http://www.tableausoftware.com/public/community
+- http://www.tableausoftware.com/public/welcome
+- http://www.tableausoftware.com/public/faq
+- http://www.tableausoftware.com/public/community
 
 
 ### D3 (DATA DRIVEN DOCUMENTS):
@@ -31,24 +29,19 @@ gives you the full capabilities of modern browsers without tying yourself to a
 proprietary framework, combining powerful visualization components and a data-
 driven approach to DOM manipulation."
 
-http://d3js.org/
-
-https://github.com/mbostock/d3/wiki/Gallery
+- http://d3js.org/
+- https://github.com/mbostock/d3/wiki/Gallery
 
 
 ### CONTACT INFO
 
 If you have any questions or issues then contact me...
 
-via my github: https://github.com/andyjudson
-
-or email: andy{dot}judson{at}gmail{dot}com
-
-or blog: http://datahugger.org/
-
-or twitter: http://twitter.com/andyjudson
-
-or linkedin: http://uk.linkedin.com/pub/andy-judson/39/9a2/29b/
+- github: https://github.com/andyjudson
+- email: andy{dot}judson{at}gmail{dot}com
+- blog: http://datahugger.org/
+- twitter: http://twitter.com/andyjudson
+- linkedin: http://uk.linkedin.com/pub/andy-judson/39/9a2/29b/
 
 
 ### ATTRIBUTION OF DATA SOURCES & USEFUL RESOURCES
@@ -85,6 +78,7 @@ Useful & Interests Blogs:
  - http://www.guardian.co.uk/news/datablog/2012/mar/02/data-scientist
  - http://datascienceglobal.org/
  - http://datasciencehackathon.com/data-science-london-hackathon/
+ - http://bost.ocks.org/mike/
  - http://tableausoftware.com/public/community
  - http://vis.stanford.edu/
  - http://www.datajournalismblog.com/
