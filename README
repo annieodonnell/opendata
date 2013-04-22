@@ -1,7 +1,7 @@
 ### INTRODUCTION
 
 This is a collection of data, workbooks, and notes that I've developed to
-support my tableau (public) and d3 work. My  focus is on the analysis of
+support my d3 and tableau (public) work. My  focus is on the analysis of
 Scottish health care data sets, but I'm generally interested in all kinds of
 data questions.
 
@@ -9,16 +9,6 @@ The data made available has been modified for use from the original sources,
 which are listed below. I don't make any claims as to the completeness, accuracy
 of content of any data contained in this repository. The data is subject to change
 as modifications and updates are complete.
-
-
-### TABLEAU PUBLIC:
-
-"Tableau Public is a free tool that brings data to life. Easy to use. 
-Spectacularly powerful. Data In. Brilliance Out."
-
-- http://www.tableausoftware.com/public/welcome
-- http://www.tableausoftware.com/public/faq
-- http://www.tableausoftware.com/public/community
 
 
 ### D3 (DATA DRIVEN DOCUMENTS):
@@ -30,14 +20,28 @@ proprietary framework, combining powerful visualization components and a data-
 driven approach to DOM manipulation."
 
 - http://d3js.org/
-- https://github.com/mbostock/d3/wiki/Gallery
+- http://vis.stanford.edu/papers/d3
+- http://github.com/mbostock/d3/wiki/Gallery
+- http://github.com/mbostock/d3/wiki/API-Reference
+- http://bost.ocks.org/mike/
+
+
+### TABLEAU (PUBLIC):
+
+"Tableau Public is a free tool that brings data to life. Easy to use. 
+Spectacularly powerful. Data In. Brilliance Out."
+
+- http://www.tableausoftware.com/products/desktop
+- http://www.tableausoftware.com/public/welcome
+- http://www.tableausoftware.com/public/faq
+- http://www.tableausoftware.com/public/community
 
 
 ### CONTACT INFO
 
 If you have any questions or issues then contact me...
 
-- github: https://github.com/andyjudson
+- github: http://github.com/andyjudson
 - email: andy{dot}judson{at}gmail{dot}com
 - blog: http://datahugger.org/
 - twitter: http://twitter.com/andyjudson
@@ -78,21 +82,25 @@ Open Spatial Data Repositories:
  - http://www.gadm.org/
 
 
-### COPYRIGHT & LICENSE
+### COPYRIGHT, LICENSE & ATTRIBUTION STATEMENTS:
 
-This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. 
-To view a copy of this license, visit: http://creativecommons.org/licenses/by-sa/3.0/
+Unless otherwise stated this work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit: http://creativecommons.org/licenses/by-sa/3.0/
 
+However because this repository contains data from various sources which are using different licensing models, any uses of the data should include the appropriate attribution statements.
 
-### ATTRIBUTION STATEMENT(S):
+The aggregate data from the UK and Scottish Government is covered by the Open Government Licence. The data is free to use for any purpose and should include an attribution statement (as below).
 
-Contains Public Sector information licensed under the Open Government Licence v1.0.
-For more information visit: http://reference.data.gov.uk/id/open-government-licence
+'Contains Public Sector information licensed under the Open Government Licence v1.0.
+For more information visit: http://reference.data.gov.uk/id/open-government-licence'
 
-Contains Ordnance Survey data © Crown copyright and database right 2011.
-For more information visit: http://www.ordnancesurvey.co.uk/opendata/licensing.html
+The spatial data from the Ordance Survey Open Data Project is licensed under the Ordance Survey Open Data Licence which incorporates the Open Government Licence. The data is free to us and should include the an attribution statement (as below).
 
-Contains Ordnance Survey data © Crown copyright and database right 2011.
+'Contains Ordnance Survey data © Crown copyright and database right 2013.
+For more information visit: http://www.ordnancesurvey.co.uk/opendata/licensing.html'
+
+The spatial data from the Scottish Government is one of the exceptions as it is licensed under Ordnance Survey Licence 100024655. The data is free to use but is more restrictive (see below).
+
+'Contains Ordnance Survey data © Crown copyright and database right 2013.
 All rights reserved. Ordnance Survey Licence number 100024655.
-For more information visit: http://crtb.sedsh.gov.uk/spatialdatadownload/licenc.asp
+For more information visit: http://crtb.sedsh.gov.uk/spatialdatadownload/licenc.asp'
 
