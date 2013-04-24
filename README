@@ -45,7 +45,6 @@ If you have any questions or issues then contact me...
 - email: andy{dot}judson{at}gmail{dot}com
 - blog: http://datahugger.org/
 - twitter: http://twitter.com/andyjudson
-- linkedin: http://uk.linkedin.com/pub/andy-judson/39/9a2/29b/
 
 
 ### ATTRIBUTION OF DATA SOURCES & USEFUL RESOURCES
@@ -84,22 +83,22 @@ Open Spatial Data Repositories:
 
 ### COPYRIGHT, LICENCE & ATTRIBUTION STATEMENTS:
 
-Unless otherwise stated, this work is licensed under the Creative Commons Attribution-ShareAlike 3.0 License. 
+Unless otherwise stated, the derived works are licensed under the Creative Commons Attribution-ShareAlike 3.0 License. 
 For more information visit: http://creativecommons.org/licenses/by-sa/3.0/
 
-However, because this repository contains data derived from various sources which are using different licensing models, any uses of the data should include the appropriate attribution statements as described below.
+However, because this repository contains datasets derived from various sources which are using different licensing models, any uses of the data should include the appropriate attribution statements as described below.
 
-The aggregate data from the UK and Scottish Government is licensed under the Open Government Licence. The data is free to use and should include an attribution statement (as below).
+The aggregate datasets from the UK and Scottish Government are licensed under the Open Government Licence. The data is free to use and should include an attribution statement (as below).
 
 'Contains Public Sector information licensed under the Open Government Licence v1.0.
 For more information visit: http://reference.data.gov.uk/id/open-government-licence'
 
-The spatial data from the Ordance Survey Open Data project is licensed under the Ordance Survey Open Data Licence which incorporates the Open Government Licence. The data is free to use and should include an attribution statement (as below).
+The spatial datasets from the Ordance Survey Open Data project are licensed under the Ordance Survey Open Data Licence which incorporates the Open Government Licence. The data is free to use and should include an attribution statement (as below).
 
 'Contains Ordnance Survey data © Crown copyright and database right 2013.
 For more information visit: http://www.ordnancesurvey.co.uk/opendata/licensing.html'
 
-The spatial data from the Scottish Government is one of the exceptions as it is licensed under the Ordnance Survey Licence 100024655. The data is free to use for non-commercial use but is more restrictive and should include an attribution statement (as below).
+The spatial datasets from the Scottish Government are licensed under the Ordnance Survey Licence 100024655. The data is free to use for non-commercial use but is more restrictive and should include an attribution statement (as below).
 
 'Contains Ordnance Survey data © Crown copyright and database right 2013.
 All rights reserved. Ordnance Survey Licence number 100024655.
