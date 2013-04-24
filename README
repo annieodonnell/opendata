@@ -1,14 +1,13 @@
 ### INTRODUCTION
 
-This is a collection of data, workbooks, and notes that I've developed to
+This is a collection of datasets that I've sourced or derived to
 support my d3 and tableau (public) work. My focus is on the analysis of
-Scottish health care data sets, but I'm generally interested in all kinds of
-data questions.
-
-The data made available has been modified for use from the original sources,
-which are listed below. I don't make any claims as to the completeness, accuracy
-of content of any data contained in this repository. The data is subject to change
-as modifications and updates are complete.
+Scottish healthcare datasets, but I'm generally interested in all kinds of
+data questions. The datasets made available have been modified for use from
+the original sources, which are listed below. The data is subject to change 
+as modifications and updates are developed and as new sources are integrated.
+I'll try to maintain accuracy of the data but if you do find errors please 
+report them via the the issue tracker.
 
 
 ### D3 (DATA DRIVEN DOCUMENTS):
