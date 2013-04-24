@@ -1,13 +1,6 @@
 ### INTRODUCTION
 
-This is a collection of datasets that I've sourced or derived to
-support my d3 and tableau (public) work. My focus is on the analysis of
-Scottish healthcare datasets, but I'm generally interested in all kinds of
-data questions. The datasets made available have been modified for use from
-the original sources, which are listed below. The data is subject to change 
-as modifications and updates are developed and as new sources are integrated.
-I'll try to maintain accuracy of the data but if you do find errors please 
-report them via the the issue tracker.
+This is a collection of datasets that I've sourced or derived to support my d3 and tableau (public) work. My focus is on the analysis of Scottish healthcare datasets, but I'm generally interested in all kinds of data questions. The datasets made available have been modified for use from the original sources, which are listed below. The data is subject to change as modifications and updates are developed and as new sources are integrated. I'll try to maintain accuracy of the data but if you do find errors please report them via the issue tracker.
 
 
 ### D3 (DATA DRIVEN DOCUMENTS):
