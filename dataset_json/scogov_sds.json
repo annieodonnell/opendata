@@ -1,0 +1,126 @@
+[{ "id":"S08000001" , "name":"Ayrshire and Arran", 
+	"sds2011": {
+		"myrpe":366890,
+		"prevalence":20175,
+		"prevalence_percent":5.50,
+		"t1dm":2221,
+		"t2dm":17919
+	}
+}, 
+{ "id":"S08000002" , "name":"Borders",
+	"sds2011": {
+		"myrpe":113150, 
+		"prevalence":5439,
+		"prevalence_percent":4.87,
+		"t1dm":614,
+		"t2dm":4846
+	}
+}, 
+{ "id":"S08000003" , "name":"Dumfries and Galloway", 
+	"sds2011": {
+		"myrpe":148060, 
+		"prevalence":8168,
+		"prevalence_percent":5.51,
+		"t1dm":893,
+		"t2dm":7236
+	}
+},
+{ "id":"S08000004" , "name":"Fife", 
+	"sds2011": {
+		"myrpe":367292, 
+		"prevalence":18192,
+		"prevalence_percent":4.98,
+		"t1dm":1969,
+		"t2dm":16164
+	}
+},
+{ "id":"S08000005" , "name":"Forth Valley", 
+	"sds2011": {
+		"myrpe":295541, 
+		"prevalence":14201,
+		"prevalence_percent":4.84,
+		"t1dm":1606,
+		"t2dm":12528
+	}
+},
+{ "id":"S08000006" , "name":"Grampian", 
+	"sds2011": {
+		"myrpe":555280, 
+		"prevalence":24040,
+		"prevalence_percent":4.37,
+		"t1dm":3053,
+		"t2dm":20902
+	}
+},
+{ "id":"S08000007" , "name":"Greater Glasgow and Clyde", 
+	"sds2011": {
+		"myrpe":1210254, 
+		"prevalence":56712,
+		"prevalence_percent":4.71,
+		"t1dm":6180,
+		"t2dm":50005
+	}
+},
+{ "id":"S08000008" , "name":"Highland", 
+	"sds2011": {
+		"myrpe":311960, 
+		"prevalence":14365,
+		"prevalence_percent":4.62,
+		"t1dm":1758,
+		"t2dm":12479
+	}
+},
+{ "id":"S08000009" , "name":"Lanarkshire", 
+	"sds2011": {
+		"myrpe":563185, 
+		"prevalence":28629,
+		"prevalence_percent":5.09,
+		"t1dm":3513,
+		"t2dm":24998
+	}
+},
+{ "id":"S08000010" , "name":"Lothian", 
+	"sds2011": {
+		"myrpe":848727, 
+		"prevalence":34024,
+		"prevalence_percent":4.07,
+		"t1dm":4175,
+		"t2dm":29551
+	}
+},
+{ "id":"S08000011" , "name":"Orkney", 
+	"sds2011": {
+		"myrpe":20160, 
+		"prevalence":973,
+		"prevalence_percent":4.84,
+		"t1dm":120,
+		"t2dm":853
+	}
+},
+{ "id":"S08000012" , "name":"Shetland", 
+	"sds2011": {
+		"myrpe":22500, 
+		"prevalence":999,
+		"prevalence_percent":4.46,
+		"t1dm":124,
+		"t2dm":871
+	}
+},
+{ "id":"S08000013" , "name":"Tayside", 
+	"sds2011": {
+		"myrpe":405721, 
+		"prevalence":20066,
+		"prevalence_percent":4.98,
+		"t1dm":1864,
+		"t2dm":18104
+	}
+},
+{ "id":"S08000014" , "name":"Western Isles", 
+	"sds2011": {
+		"myrpe":26080, 
+		"prevalence":1241,
+		"prevalence_percent":4.74,
+		"t1dm":182,
+		"t2dm":1058
+	}
+}]
