@@ -1,0 +1,5 @@
+setwd('/Users/andrewjudson/GitHub/local/opendata/idf_diabetes_atlas')
+data<-read.csv('idf_atlas_5e.csv')
+str(data)
+summary(data$yr_2012)
+plot(data$yr_2012)
