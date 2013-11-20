@@ -1,0 +1,43 @@
+{
+  "name": "sco_diabetes",
+  "title": "Scottish Diabetes Survey Dataset",
+  "description": "Scottish Diabetes Survey Dataset reflects many aspects of the quality of diabetes care across the whole of Scotland. The quality and the completeness of the data included within the Survey continues to improve. Most of the data contained in the Survey is extracted from the national award-winning diabetes IT system SCI-DC/SCI-DIABETES.",
+  "licenses": [{
+    "id": "OGL-UK-2.0",
+    "url": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/"
+  }],
+  "sources": [{
+    "name": "NHS Scotland - Scottish Diabetes Survey Monitoring Group",
+    "web": "http://www.diabetesinscotland.org.uk"
+  },{
+    "name": "NHS Scotland - Information Services Division",
+    "web": "http://www.isdscotland.org"
+  }],
+  "maintainers": [{
+    "name": "Andy Judson",
+    "email": "andy.judson@gmail.com",
+    "web": "http://www.datahugger.org"
+  }],
+  "contributors": [{
+    "name": "Scott Cunningham, Ritchie McAlpine, Erwin Oosterhoorn, Colin Fischbacher, Andrew Gasiorowski, John McKnight, ... (see acknowledgements in PDF reports)",
+  }],
+  // here we list the data files in this dataset
+  "resources": [
+    {
+      "path": "sds2012.csv",
+      "url": "https://github.com/andyjudson/opendata/tree/master/sco_diabetes/sds2012.csv",
+      "schema": {
+        "fields": [{
+          "name": "var1",
+          "type": "string"
+        },{
+          "name": "var2",
+          "type": "integer"
+        },{
+          "name": "var3",
+          "type": "number"
+        }]
+      }
+    }
+  ]
+}
