@@ -77,16 +77,10 @@ However, because this repository contains datasets derived from various sources 
 
 The aggregate datasets from the UK and Scottish Government are licensed under the Open Government Licence. The data is free to use and should include an attribution statement (as below).
 
-'Contains Public Sector information licensed under the Open Government Licence v1.0.
-For more information visit: http://reference.data.gov.uk/id/open-government-licence'
+'Contains Public Sector information licensed under the Open Government Licence v2.0.
+For more information visit: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/'
 
-The spatial datasets from the Ordance Survey Open Data project are licensed under the Ordance Survey Open Data Licence which incorporates the Open Government Licence. The data is free to use and should include an attribution statement (as below).
+The spatial datasets from the Ordance Survey (UK & Scottish Government) are licensed under the Ordance Survey Open Data Licence v1.5 which incorporates the Open Government Licence v2.0. The data is free to use and should include an attribution statement (as below).
 
-'Contains Ordnance Survey data © Crown copyright and database right 2013.
-For more information visit: http://www.ordnancesurvey.co.uk/opendata/licensing.html'
-
-The spatial datasets from the Scottish Government are licensed under the Ordnance Survey Licence 100024655. The data is free to use for non-commercial use but is more restrictive and should include an attribution statement (as below).
-
-'Contains Ordnance Survey data © Crown copyright and database right 2013.
-All rights reserved. Ordnance Survey Licence number 100024655.
-For more information visit: http://crtb.sedsh.gov.uk/spatialdatadownload/licenc.asp'
+'Contains Ordnance Survey data (crown copyright and database right 2013).
+For more information visit: http://www.ordnancesurvey.co.uk/business-and-government/licensing/using-creating-data-with-os-products/os-opendata.html'

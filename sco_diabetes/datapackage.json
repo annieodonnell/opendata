@@ -21,20 +21,35 @@
   "contributors": [{
     "name": "Scott Cunningham, Ritchie McAlpine, Erwin Oosterhoorn, Colin Fischbacher, Andrew Gasiorowski, John McKnight, ... (see acknowledgements in PDF reports)",
   }],
-  // here we list the data files in this dataset
+  // list of data files in this dataset
   "resources": [
     {
       "path": "sds2012.csv",
       "url": "https://github.com/andyjudson/opendata/tree/master/sco_diabetes/sds2012.csv",
       "schema": {
         "fields": [{
-          "name": "var1",
+          "name": "hb_code",
           "type": "string"
         },{
-          "name": "var2",
+          "name": "ind_no",
           "type": "integer"
         },{
-          "name": "var3",
+          "name": "ind_name",
+          "type": "string"
+        },{
+          "name": "year",
+          "type": "integer"
+        },{
+          "name": "number",
+          "type": "integer"
+        },{
+          "name": "measure",
+          "type": "number"
+        },{
+          "name": "lci",
+          "type": "number"
+        },{
+          "name": "uci",
           "type": "number"
         }]
       }
