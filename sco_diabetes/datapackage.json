@@ -21,7 +21,6 @@
   "contributors": [{
     "name": "Scott Cunningham, Ritchie McAlpine, Erwin Oosterhoorn, Colin Fischbacher, Andrew Gasiorowski, John McKnight, ... (see acknowledgements in PDF reports)",
   }],
-  // list of data files in this dataset
   "resources": [
     {
       "path": "sds2012.csv",
